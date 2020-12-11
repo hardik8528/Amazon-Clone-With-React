@@ -10,7 +10,7 @@ function Home() {
                 />
 
                 <div className='home__row'>
-                    <Product />
+                    <Product title="Soft Skills: The Software Developer's Life Manual (Manning)" price='449' rating={5} image='https://m.media-amazon.com/images/I/51La7RXPopL._AC_UY327_FMwebp_QL65_.jpg' />
                     <Product />
                 </div>
 
